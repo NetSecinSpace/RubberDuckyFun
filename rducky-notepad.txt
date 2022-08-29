@@ -1,0 +1,9 @@
+REM Script 0:
+REM Open Notepad and write something:
+DELAY 1000
+GUI r
+DELAY 100
+STRING notepad.exe
+ENTER
+DELAY 1000
+STRING Your machine has been found to not be a linux machine. Now stop using windows you effin loser.
